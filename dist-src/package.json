@@ -1,0 +1,19 @@
+{
+  "name": "react-flatstage",
+  "version": "1.0.0",
+  "private": false,
+  "description": "This decreases the nesting level of React.js components by sharing a stage for temporary components.",
+  "main": "react-flatstage.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats4u/react-flatstages.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React.js"
+  ],
+  "author": "Atsushi Oka",
+  "license": "MIT"
+}

@@ -2,11 +2,15 @@
   "name": "react-flatter",
   "version": "0.1.1",
   "private": false,
+  "main": "./react-flatter.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ats4u/react-stage.git"
+    "url": "git+https://github.com/ats4u/react-flatstages.git"
   },
   "license": "MIT",
+  "files": [
+      "dist/react-flatter.js"
+  ],
   "babel": {
     "presets": [
       "@babel/preset-react"
@@ -22,7 +26,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "publish:npm": "rm -rf dist && mkdir dist &&  babel src/components -d dist --copy-files",
+    "make": "rm -rf dist && cp -ar dist-src dist && babel src/components -d dist --copy-files",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
