@@ -1,16 +1,13 @@
 {
   "name": "react-flatter",
-  "version": "0.1.1",
-  "private": false,
+  "version": "1.0.0",
+  "private": true,
   "main": "./react-flatter.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ats4u/react-flatstages.git"
   },
   "license": "MIT",
-  "files": [
-      "dist/react-flatter.js"
-  ],
   "babel": {
     "presets": [
       "@babel/preset-react"
