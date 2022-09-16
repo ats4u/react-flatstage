@@ -6,7 +6,7 @@
   "main": "react-flatstage.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ats4u/react-flatstages.git"
+    "url": "git+https://github.com/ats4u/react-flatstage.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

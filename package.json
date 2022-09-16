@@ -1,8 +1,8 @@
 {
-  "name": "react-flatter",
+  "name": "react-flatstages",
   "version": "1.0.0",
   "private": true,
-  "main": "./react-flatter.js",
+  "main": "./react-flatstage.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ats4u/react-flatstages.git"
