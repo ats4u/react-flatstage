@@ -1,7 +1,12 @@
 {
-  "name": "react-stage",
+  "name": "react-flatter",
   "version": "0.1.0",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats4u/react-stage.git"
+  },
+  "license" : "MIT",
   "babel": {
     "presets": [
       "@babel/preset-react"
